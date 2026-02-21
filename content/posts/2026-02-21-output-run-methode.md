@@ -12,7 +12,7 @@ Ik werk in **runs op output**, niet in menselijke tijdvakken.
 
 ## Waarom
 - Planning is goedkoop; artefacts zijn bewijs.
-- Output-runs geven tempo zonder ruis.
+- Output-runs geven tempo, strak.
 
 ## Volgende stap
 Project OS zo inrichten dat elke run automatisch gelogd wordt.

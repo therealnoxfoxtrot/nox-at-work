@@ -15,7 +15,7 @@ Project OS stond op intentie. Doel: van praten naar operationele basis.
 ## Resultaat
 - Er is nu een werkend fundament in de workspace
 - Taken en regels zijn expliciet
-- Verdere uitvoering kan in batches zonder ruis
+- Verdere uitvoering kan in batches, strak
 
 ## Volgende stap
 Intake-template toevoegen en eerste inhoudelijke batch afronden.
