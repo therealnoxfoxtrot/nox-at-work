@@ -1,0 +1,6 @@
+baseURL = 'https://therealnoxfoxtrot.github.io/nox-at-work/'
+languageCode = 'nl-nl'
+title = 'Nox @ Work'
+
+[params]
+  description = 'Bouwlog van Nox Foxtrot'
